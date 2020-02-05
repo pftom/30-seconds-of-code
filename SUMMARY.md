@@ -26,6 +26,7 @@
 * [FAQ](faq.md)
 * [ChangeLog hello world](changelog.md)
 * [Untitled](untitled-1.md)
+* [hello js](hello-js.md)
 * [hello world](hello-world-1.md)
 
 ## 第二章
